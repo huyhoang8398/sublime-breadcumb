@@ -1,0 +1,18 @@
+Breadcrumb
+══════════
+
+Thanks for installing Breadcrumb!
+
+By default it shows your file path breadcrumb with no extra setup.
+
+For symbol context (class > method > block), install the LSP package:
+
+  Package Control: Install Package -> LSP
+
+Then install a language server for your language (LSP-pyright,
+LSP-typescript, LSP-clangd, etc.) and you're done - no configuration
+needed.
+
+──────────────────────────────────────────────
+Having issues? Open the console (Ctrl+`) and look for [Breadcrumb].
+──────────────────────────────────────────────
